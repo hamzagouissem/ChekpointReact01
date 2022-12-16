@@ -1,0 +1,18 @@
+label{
+    color:blue
+}
+.form{
+    margin:0 auto;
+    justify-content: center;
+    display:flex;
+    width: 600px;
+    border:lpx solid black;
+}
+.input{
+    height:30px
+}
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
